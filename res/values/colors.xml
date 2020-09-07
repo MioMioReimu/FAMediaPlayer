@@ -1,0 +1,7 @@
+
+    <resources>
+        <color name="bkgd_trans_grey">#c8111111</color>
+        <color name="bkgd_transtotal_black">#00000000</color>
+        <color name="bkgd_trans_black">#c8808080</color>
+        <color name="bkgd_total_black">#FF000000</color>
+    </resources>

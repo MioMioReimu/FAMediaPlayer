@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="playerType">
+        <item>System Codec</item>
+        <item>FFmpeg</item>
+    </string-array>
+</resources>
